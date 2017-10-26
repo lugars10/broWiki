@@ -7,10 +7,3 @@ Bienvenido a la clase de Artes Visuales.
     * [Temas por añadir]
  
  ¡Gracias por tu interés en el curso!
-  
-  ```javascript
-  if(x = 10)
-  {
-    return 10;
-  }
-  ```
